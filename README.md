@@ -6,4 +6,4 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Category
 
-- SCSS
+- [SCSS](https://github.com/ChrisGibe/til/tree/main/scss)
