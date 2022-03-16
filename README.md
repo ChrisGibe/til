@@ -6,4 +6,5 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Category
 
+- [Prestashop](https://github.com/ChrisGibe/til/tree/main/prestashop)
 - [SCSS](https://github.com/ChrisGibe/til/tree/main/scss)
