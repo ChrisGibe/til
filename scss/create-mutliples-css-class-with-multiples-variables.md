@@ -25,6 +25,7 @@ and line height on desktop and mobile
   }
 }
 
+// Mixin to return a font weight 
 @mixin f-weight($f-weight){
   font-weight: $f-weight;
 }
@@ -34,9 +35,15 @@ and line height on desktop and mobile
       @include f-size($f-size-desktop, $f-size-mobile);
     }
 }
+
+@each $f-weight in $f-weights {
+    .w-#{$f-weight} {
+      @include $f-weight($f-weight);
+    }
+}
 ```
 
-Has you can see, i can create automatically a lot of CSS class with all the font-sizes, mixed with the line-height and same things for my font weight.
+I can create automatically a lot of CSS class with all the font-sizes, mixed with the line-height and same things for my font weight.
 
 Now in my HTML i can call all this class like that, example :
 
