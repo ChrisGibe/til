@@ -6,6 +6,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Category
 
+- [a11y](https://github.com/ChrisGibe/til/tree/main/a11y)
 - [Axios](https://github.com/ChrisGibe/til/tree/main/axios)
+- [CSS](https://github.com/ChrisGibe/til/tree/main/css)
 - [Prestashop](https://github.com/ChrisGibe/til/tree/main/prestashop)
 - [SCSS](https://github.com/ChrisGibe/til/tree/main/scss)
