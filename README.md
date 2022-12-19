@@ -11,3 +11,4 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [CSS](https://github.com/ChrisGibe/til/tree/main/css)
 - [Prestashop](https://github.com/ChrisGibe/til/tree/main/prestashop)
 - [SCSS](https://github.com/ChrisGibe/til/tree/main/scss)
+- [ThressJs](https://github.com/ChrisGibe/til/tree/main/threeJs)
